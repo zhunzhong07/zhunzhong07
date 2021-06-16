@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **zhunzhong07/zhunzhong07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-![Zhun Zhong's Github Stats](https://github-readme-stats.vercel.app/api?username=zhunzhong07&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 Contact Me:
 
@@ -24,3 +21,7 @@ Contact Me:
 ✧ Website: http://zhunzhong.site
 
 ✧ Google Scholar: https://scholar.google.com/citations?user=nZizkQ0AAAAJ&hl=en
+-->
+
+![Zhun Zhong's Github Stats](https://github-readme-stats.vercel.app/api?username=zhunzhong07&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
