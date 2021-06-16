@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Zhun Zhong's github stats](https://github-readme-stats.vercel.app/api?username=zhunzhong07&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![Zhun Zhong's Github Stats](https://github-readme-stats.vercel.app/api?username=zhunzhong07&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 Contact Me:
 
