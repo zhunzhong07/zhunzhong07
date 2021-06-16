@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Zhun Zhong's github stats](https://github-readme-stats.vercel.app/api?username=zhunzhong07&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+Contact Me:
+
+✉ Email: zhunzhong007@gmail.com
+
+✧ Website: http://zhunzhong.site
+
+✧ Google Scholar: https://scholar.google.com/citations?user=nZizkQ0AAAAJ&hl=en
